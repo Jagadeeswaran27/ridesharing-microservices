@@ -1,5 +1,5 @@
 {
-  "name": "@microservices-poc/logger",
+  "name": "@microservices/logger",
   "version": "0.0.1",
   "private": true,
   "type": "module",
